@@ -124,7 +124,6 @@ const Sidebar = ({
             boxSizing: "border-box", // Corrected typo from 'boxSixing' to 'boxSizing'
             borderWidth: isNonMobile ? 0 : "2px",
             width: drawerWidth,
-            overflow: 'hidden', // Add this line
           },
         }}
       >
